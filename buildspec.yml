@@ -18,5 +18,4 @@ phases:
 artifacts:
   files:
     -  firstapp.war
-    discard-path:no
-    base-directroy:build
+    
