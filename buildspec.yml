@@ -18,4 +18,5 @@ phases:
 artifacts:
   files:
     -  firstapp.war
+discard-paths: yes
     
